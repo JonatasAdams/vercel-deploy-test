@@ -1,0 +1,26 @@
+{
+  "name": "vercel-deploy-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonatasAdams/vercel-deploy-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonatasAdams/vercel-deploy-test/issues"
+  },
+  "homepage": "https://github.com/JonatasAdams/vercel-deploy-test#readme",
+  "dependencies": {
+    "next": "^10.0.2",
+    "node-fetch": "^2.6.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
